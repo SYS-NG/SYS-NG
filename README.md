@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**SYS-NG/SYS-NG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Steven Ng 😁
 
-Here are some ideas to get you started:
+I am ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔋 An Electrical/Biomedical Engineering student at the University of Calgary
+
+💪 Seeking oppurtunities to grow and challenge myself
+
+📚 Aspring to be a lifelong learner 
+
+---
+
+Past Experience:
+
+🏢 Research Student @data-intelligence-for-health-lab
+
+---
+
+I always look forward to meeting new people! 👀
+
+Please reach out to me via [email](mailto:szeyungng@gmail.com) or [LinkedIn](https://www.linkedin.com/in/steven-ng-44380a19a/) 🤗
