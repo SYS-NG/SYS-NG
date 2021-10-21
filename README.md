@@ -14,7 +14,7 @@ I am ...
 
 Past Experience:
 
-🏢 Research Student @[DataIntelligenceforHealthLab](https://github.com/data-intelligence-for-health-lab)
+🏢 Research Student @[DataIntelligenceforHealthLab](https://github.com/data-intelligence-for-health-lab) - Summer and Fall 2021
 
 ---
 
