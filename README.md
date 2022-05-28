@@ -14,6 +14,10 @@ I am ...
 
 Past Experience:
 
+🖥️ SoC Design Verification Intern @AMD - Summer 2022
+
+📶 Embedded Software Engineer Intern @Ciena - Winter 2022
+
 🏢 Research Student @[DataIntelligenceforHealthLab](https://github.com/data-intelligence-for-health-lab) - Summer and Fall 2021
 
 ---
