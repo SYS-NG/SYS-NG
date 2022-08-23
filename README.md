@@ -6,7 +6,7 @@ I am ...
 
 🔋 An Electrical/Biomedical Engineering student at the University of Calgary
 
-💪 Seeking oppurtunities to grow and challenge myself
+💪 Always seeking oppurtunities to grow and challenge myself
 
 📚 Aspring to be a lifelong learner 
 
@@ -14,7 +14,7 @@ I am ...
 
 Past Experience:
 
-🖥️ SoC Design Verification Intern @AMD - Summer 2022
+🖥️ SoC Design Verification Intern @AMD - Summer and Fall 2022
 
 📶 Embedded Software Engineer Intern @Ciena - Winter 2022
 
@@ -24,4 +24,4 @@ Past Experience:
 
 I always look forward to meeting new people! 👀
 
-Please reach out to me via [email](mailto:szeyungng@gmail.com) or [LinkedIn](https://www.linkedin.com/in/steven-ng-44380a19a/) 🤗
+Let's start a conversation! Reach out to me via [email](mailto:szeyungng@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sysng/) 🤗
