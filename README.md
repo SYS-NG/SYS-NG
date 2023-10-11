@@ -6,13 +6,15 @@ I am ...
 
 🔋 An Electrical/Biomedical Engineering student at the University of Calgary
 
-💪 Always seeking oppurtunities to grow and challenge myself
+💪 Always seeking opportunities to grow and challenge myself
 
 📚 Aspring to be a lifelong learner 
 
 ---
 
 Past Experience:
+
+🚘 Software Engineer Intern @Zoox - Summer 2023
 
 🖥️ SoC Design Verification Intern @AMD - Summer and Fall 2022
 
