@@ -10,7 +10,7 @@
 
 ---
 
-## Past Experience:
+## Experiences:
 
 🚘 Software Engineer Intern @Zoox - Summer 2023
 
